@@ -1,4 +1,5 @@
 Maya Script: Efficiently Select Alternate Edges
+
 This Python script, selection_edges.py, streamlines the process of selecting every other edge within a set of chosen edges in Autodesk Maya. It addresses a common workflow requirement for tasks like:
 
 Reducing edge density while preserving key features.
